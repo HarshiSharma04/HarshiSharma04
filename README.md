@@ -1,5 +1,5 @@
 <h1 align="center"> Harshita Sharma </h1>
-<h3 align="center">Android & AI Developer | MERN Stack Learner | Data Science Enthusiast</h3>
+<h3 align="center">Android & AI Developer | Data Science Enthusiast | MERN Stack Developer</h3>
 
 ---
 
