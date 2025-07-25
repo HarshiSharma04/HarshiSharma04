@@ -1,60 +1,73 @@
-<h1 align="center">Hi 👋, I'm Harshita!</h1>
-<h3 align="center">Android Developer | Data Science Enthusiast | MERN Stack Developer</h3>
+<h1 align="center">Hey there! 👋 I'm Harshita</h1>
+<h3 align="center">🚀 Android Developer | 🧠 Data Science Explorer | 💻 Full-Stack (MERN) Enthusiast</h3>
 
-- 🔭 I’m currently working on **AI-powered Android applications** and **data-driven mobile solutions**  
-- 🌱 I’m currently learning **MERN Stack**, **Advanced DSA**, and **backend architecture**  
-- 👯 I’m looking to collaborate on **data science, machine learning, mobile development, and full-stack projects**  
-- 💬 Ask me about **Flutter, Firebase, Python, APIs and AI integration** in apps  
-- 📫 Reach me at **harshitaojasv@gmail.com**
+<p align="center">
+  <em>“I turn coffee ☕ into code, and ideas 💡 into apps.”</em>
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 💼 About Me
+
+- 🧑‍💻 Final-year B.Tech CSE student @ Bennett University  
+- 🔭 Currently building smart Android apps powered by AI  
+- 🌱 Learning: MERN Stack, Backend Systems & Advanced DSA  
+- 🛠️ Love working on projects that combine tech + impact  
+- 💬 Ask me about: Python, Flutter, Firebase, ML Models  
+- 📍 Based in India | Available for remote + hybrid roles  
+
+---
+
+### 🤝 Let’s Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/harshita-sharma-2a40ab25b/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-sharma-2a40ab25b" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/harshita-sharma-2a40ab25b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/HarshiSharma04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square" alt="GitHub" />
+  </a>
+  <a href="mailto:harshitaojasv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" alt="Gmail" />
+  </a>
+  <a href="https://harshisharma04.github.io/portfolio_website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-teal?style=flat-square&logo=web" alt="Portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Tech Toolbox
+
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=flat-square" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshiSharma04&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshiSharma04&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+### ✨ Fun Fact
+> I believe a great UI, clean data, and thoughtful algorithms can solve anything — even late-night debugging 😅
+
+---
+
