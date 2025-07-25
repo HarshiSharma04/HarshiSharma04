@@ -1,8 +1,8 @@
-<h1 align="center">🌸 Harshita Sharma 🌸</h1>
+<h1 align="center"> Harshita Sharma </h1>
 <h3 align="center">Android & AI Developer | MERN Stack Learner | Data Science Enthusiast</h3>
 
 <p align="center">
-💻 B.Tech CSE • 📍 India • 🌿 Learning + Building  
+ B.Tech CSE • India • Learning + Building  
 </p>
 
 ---
