@@ -1,19 +1,19 @@
 <h1 align="center">🌸 Harshita Sharma 🌸</h1>
-<h3 align="center">Android & AI Developer | MERN Stack Learner | CS Undergrad</h3>
+<h3 align="center">Android & AI Developer | MERN Stack Learner | Data Science Enthusiast</h3>
 
 <p align="center">
-💻 B.Tech CSE @ Bennett University • 📍 India • 🌿 Learning + Building  
+💻 B.Tech CSE • 📍 India • 🌿 Learning + Building  
 </p>
 
 ---
 
 ### 🌼 About Me
 
-Hi! I'm Harshita — a passionate developer who loves building meaningful tech with beautiful UI and smart logic.
+Hi! I'm Harshita — a developer passionate about building meaningful tech with intuitive design and efficient logic.
 
-- 🔭 Currently working on Android apps powered by AI/ML  
-- 🌱 Exploring MERN Stack, System Design & Advanced DSA  
-- 🤍 I care about clean code, good UX, and solving real-world problems  
+- 📱 Experienced in building modern, user-focused Android applications  
+- 💻 Currently working on full-stack projects using **MERN**, backend systems & API integrations  
+- 🧠 I love clean UI, efficient logic, and solving real problems with tech  
 
 ---
 
@@ -42,5 +42,5 @@ Hi! I'm Harshita — a passionate developer who loves building meaningful tech w
 ---
 
 <p align="center">
-🌸 Thank you for stopping by — let’s connect & build something impactful! 🌸  
+🌸 Thanks for stopping by — let’s connect and create something meaningful! 🌸  
 </p>
