@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **AI-powered Android applications** and **data-driven mobile solutions**  
 - 🌱 I’m currently learning **MERN Stack**, **Advanced DSA**, and **backend architecture**  
 - 👯 I’m looking to collaborate on **data science, machine learning, mobile development, and full-stack projects**  
-- 💬 Ask me about **Flutter, Data Science, Python and AI**   
+- 💬 Ask me about **Flutter, Firebase, Python, APIs and AI integration** in apps  
 - 📫 Reach me at **harshitaojasv@gmail.com**
 
 ---
@@ -56,4 +56,5 @@
   </a>
   <a href="https://figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+  </a>
+</p>
