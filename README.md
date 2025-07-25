@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Harshita</h1>
-<h3 align="center">🚀 Android Developer | 🧠 Data Science Explorer | 💻 Full-Stack (MERN) Enthusiast</h3>
+<h3 align="center">🚀 Android Developer | 🧠 Data Science Explorer | 💻 MERN Stack Enthusiast</h3>
 
 <p align="center">
   <em>“I turn coffee ☕ into code, and ideas 💡 into apps.”</em>
@@ -9,16 +9,16 @@
 
 ### 💼 About Me
 
-- 🧑‍💻 Final-year B.Tech CSE student @ Bennett University  
-- 🔭 Currently building smart Android apps powered by AI  
-- 🌱 Learning: MERN Stack, Backend Systems & Advanced DSA  
-- 🛠️ Love working on projects that combine tech + impact  
-- 💬 Ask me about: Python, Flutter, Firebase, ML Models  
-- 📍 Based in India | Available for remote + hybrid roles  
+- 🔭 Currently working on AI-powered mobile apps and real-world data-driven projects  
+- 🌱 Exploring MERN Stack, Backend Architecture, and System Design  
+- 🤝 I love collaborating on open-source, AI/ML, and mobile-first ideas  
+- 💬 Ask me about Python, Flutter, Firebase, ML integration, or hackathons  
+- 📍 Based in India | Open to remote/hybrid opportunities
 
 ---
 
 ### 🤝 Let’s Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/harshita-sharma-2a40ab25b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
@@ -57,17 +57,9 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshiSharma04&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshiSharma04&layout=compact&theme=radical" width="45%" />
-</p>
-
----
-
 ### ✨ Fun Fact
-> I believe a great UI, clean data, and thoughtful algorithms can solve anything — even late-night debugging 😅
+
+> I believe a great UI, clean data, and thoughtful algorithms can solve anything — even late-night bugs 😄
 
 ---
 
