@@ -5,7 +5,7 @@
 
 ### 🌼 About Me
 
-Hi! I'm Harshita — a developer passionate about building meaningful tech with intuitive design and efficient logic.
+Hi! I'm Harshita, a developer passionate about building meaningful tech with intuitive design and efficient logic.
 
 - 📱 Experienced in building modern, user-focused Android applications  
 - 💻 Currently working on full-stack projects using **MERN**, backend systems & API integrations  
