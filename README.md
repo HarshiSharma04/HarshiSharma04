@@ -38,5 +38,5 @@ Hi! I'm Harshita, a developer passionate about building meaningful tech with int
 ---
 
 <p align="center">
-🌸 Thanks for stopping by — let’s connect and create something meaningful! 🌸  
+🌸 Thanks for stopping by, let’s connect and create something meaningful! 🌸  
 </p>
