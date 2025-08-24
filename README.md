@@ -32,7 +32,7 @@ Hi! I'm Harshita, a developer passionate about building meaningful tech with int
   <a href="https://www.linkedin.com/in/harshita-sharma-2a40ab25b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:harshitaojasv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/HarshiSharma04"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://harshisharma04.github.io/portfolio_website/"><img src="https://img.shields.io/badge/Portfolio-%23f3f3f3?style=flat&logo=google-chrome&logoColor=black"/></a>
+  <a href="http://resplendent-squirrel-15bfdc.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23f3f3f3?style=flat&logo=google-chrome&logoColor=black"/></a>
 </p>
 
 ---
