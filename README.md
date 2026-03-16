@@ -1,8 +1,8 @@
 <h1 align="center">Harshita Sharma</h1>
-<h3 align="center">AI Engineer | ML Developer | Data Systems</h3>
+<h3 align="center">AI Engineer | Machine Learning | Data Systems</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Developer;Building+AI+for+Real+World+Problems;Data+Pipelines+%26+Automation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Developer;Building+AI+for+Real+World+Problems;Data+Systems+%26+Automation"/>
 </p>
 
 <p align="center">
@@ -11,32 +11,32 @@
 
 ---
 
-## About Me
+### About Me
 
-Hi! I'm Harshita, an AI developer building **intelligent systems that solve real-world problems**.
+Hi! I'm Harshita, an AI developer passionate about building intelligent systems that solve **real-world problems**.
 
-I focus on **machine learning model development, AI applications, automation, and scalable data systems**. I love transforming complex datasets into **insightful, practical solutions**.
+My work spans **machine learning model development, data-driven applications, and scalable data systems**. I enjoy transforming complex datasets into meaningful solutions through **AI models, automation, and efficient backend architectures**.
 
-- Develop **AI/ML models for real-world applications**  
-- Build **data pipelines and automated validation systems**  
-- Work with **large-scale datasets & financial/market data**  
-- Design **intelligent applications powered by machine learning**
+- Building **AI/ML models to solve real-world problems**
+- Designing **data pipelines and automated data validation systems**
+- Working with **large-scale datasets and financial/market data**
+- Developing **intelligent applications powered by machine learning**
 
 ---
 
-## Current Focus
+### Current Focus
 
-- AI & Machine Learning model development  
-- Data pipelines & automated validation systems  
-- Real-world AI applications for problem-solving  
+- Machine Learning model development  
+- AI-driven applications for real-world problem solving  
+- Data pipelines and automated data validation systems  
 - Financial and market data analytics  
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,opencv,mongodb,nodejs,react,git,linux,firebase" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mongodb,nodejs,react,git,linux,opencv,firebase"/>
 </p>
 
 #### Languages
@@ -48,22 +48,35 @@ I focus on **machine learning model development, AI applications, automation, an
 #### Data Engineering & Backend
 `MongoDB` • `Node.js` • `REST APIs` • `Data Pipelines`
 
-#### Tools & Platforms
-`Git` • `VS Code` • `Linux` • `Streamlit` • `Firebase`
-
-
----
-
-## Areas of Interest
-
-- Artificial Intelligence & Machine Learning  
-- Data Engineering & Automation  
-- Analytics  
-- Real-world AI applications  
+#### Tools
+`Git` • `Linux` • `VS Code` • `Streamlit` • `Firebase`
 
 ---
 
-## GitHub Stats
+### Featured Projects
+
+**AI Food Recognition System**  
+Machine learning model that detects food items using computer vision and estimates calorie information.
+
+**Market Data Analytics Pipeline**  
+Automated pipeline for processing, validating, and analyzing large-scale financial datasets.
+
+**Smart Learning Assistant**  
+AI-powered system that helps students organize study schedules and discover relevant learning resources.
+
+---
+
+### Areas of Interest
+
+- Artificial Intelligence  
+- Machine Learning Systems  
+- Data Engineering  
+- Automation for Data Workflows  
+- Financial & Market Data Analytics  
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshiSharma04&show_icons=true&theme=tokyonight" height="160"/>
@@ -75,7 +88,7 @@ I focus on **machine learning model development, AI applications, automation, an
 
 ---
 
-## GitHub Activity
+### GitHub Activity
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
@@ -83,7 +96,7 @@ I focus on **machine learning model development, AI applications, automation, an
 
 ---
 
-## Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshita-sharma-2a40ab25b/">
@@ -103,5 +116,5 @@ I focus on **machine learning model development, AI applications, automation, an
 ---
 
 <p align="center">
-Building intelligent systems with AI, data, and automation for real-world impact.
+Using AI and data to build intelligent solutions for real-world problems.
 </p>
