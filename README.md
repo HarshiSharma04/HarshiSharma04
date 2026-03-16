@@ -53,19 +53,6 @@ My work spans **machine learning model development, data-driven applications, an
 
 ---
 
-### Featured Projects
-
-**AI Food Recognition System**  
-Machine learning model that detects food items using computer vision and estimates calorie information.
-
-**Market Data Analytics Pipeline**  
-Automated pipeline for processing, validating, and analyzing large-scale financial datasets.
-
-**Smart Learning Assistant**  
-AI-powered system that helps students organize study schedules and discover relevant learning resources.
-
----
-
 ### Areas of Interest
 
 - Artificial Intelligence  
