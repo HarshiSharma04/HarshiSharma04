@@ -13,9 +13,9 @@
 
 ### About Me
 
-I'm Harshita, a software engineer specializing in AI-integrated production systems — combining full-stack development with applied AI (LLM/embedding APIs, semantic matching, multimodal extraction) to solve real business problems, including live delivery to international enterprise clients.
+I'm Harshita, a software engineer specializing in AI-integrated production systems combining full-stack development with applied AI (LLM/embedding APIs, semantic matching, multimodal extraction) to solve real business problems, including live delivery to international enterprise clients.
 
-- Building production systems where AI is a core, load-bearing component — not a bolt-on
+- Building production systems where AI is a core, load-bearing component not a bolt-on
 - Designing semantic matching, vector similarity, and automation pipelines using AI APIs
 - Owning systems end-to-end: architecture, backend, AI layer, client-facing delivery
 
