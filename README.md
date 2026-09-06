@@ -13,23 +13,19 @@
 
 ### About Me
 
-Hi! I'm Harshita, an AI developer passionate about building intelligent systems that solve **real-world problems**.
+I'm Harshita, a software engineer specializing in AI-integrated production systems — combining full-stack development with applied AI (LLM/embedding APIs, semantic matching, multimodal extraction) to solve real business problems, including live delivery to international enterprise clients.
 
-My work spans **machine learning model development, data-driven applications, and scalable data systems**. I enjoy transforming complex datasets into meaningful solutions through **AI models, automation, and efficient backend architectures**.
-
-- Building **AI/ML models to solve real-world problems**
-- Designing **data pipelines and automated data validation systems**
-- Working with **large-scale datasets and financial/market data**
-- Developing **intelligent applications powered by machine learning**
+- Building production systems where AI is a core, load-bearing component — not a bolt-on
+- Designing semantic matching, vector similarity, and automation pipelines using AI APIs
+- Owning systems end-to-end: architecture, backend, AI layer, client-facing delivery
 
 ---
 
 ### Current Focus
 
-- Machine Learning model development  
-- AI-driven applications for real-world problem solving  
-- Data pipelines and automated data validation systems  
-- Financial and market data analytics  
+- AI-integrated automation: ERP pipelines, RFQ systems, vendor matching
+- Applied AI: embeddings, semantic/vector similarity search, multimodal extraction
+- Full-stack systems architecture for production B2B platforms
 
 ---
 
